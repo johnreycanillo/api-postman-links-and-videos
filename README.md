@@ -11,4 +11,4 @@ https://canillo-node-api.herokuapp.com/ API Deployment in heroku
 
 https://www.getpostman.com/collections/931d6d8d4169bacbda01 student registration api
 
-https://documenter.getpostman.com/view/14455035/TzCMc82c documenter for publish Api in student as new object
+https://documenter.getpostman.com/view/14455035/TzCMc82c documenter for publish Api in student as new object added phone address and gender
