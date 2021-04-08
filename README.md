@@ -1,5 +1,5 @@
 # Link and Videos of my activities in IPT 101
-https://www.getpostman.com/collections/837081707b2c37706b63 node mongo register login api
+https://www.postman.com/collections/837081707b2c37706b63 node mongo register login api
 
 https://www.youtube.com/watch?v=Ahn5Mo7yrGE&t=1s How to Connect node-mongo-register-login-api to MongoDB Atlas
 
