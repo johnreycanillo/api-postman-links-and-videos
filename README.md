@@ -6,5 +6,3 @@ https://www.youtube.com/watch?v=Ahn5Mo7yrGE&t=1s How to Connect node-mongo-regis
 https://www.youtube.com/watch?v=DgY6avVSeoc&t=1052s All Activities on GitHub Repository
 
 https://canillo-node-api.herokuapp.com/ API Deployment in heroku
-
-https://www.getpostman.com/collections/931d6d8d4169bacbda01 student registration api
